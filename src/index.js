@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import StarList from "./StarList";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<StarList />, document.getElementById("root"));
